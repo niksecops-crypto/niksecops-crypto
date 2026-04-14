@@ -20,3 +20,7 @@ Vulnerability Management: Established a continuous vulnerability management life
 Automation: Developed custom automation scripts and internal tools using Go, Python, and Bash to streamline security operations and routine infrastructure tasks.
 
 Tech Stack: Go, Dagger.io, Kubernetes, AWS, Azure, GitLab CI, Splunk, Terraform, Docker, Python, Bash, Ansible, ArgoCD, Trivy, HashiCorp Vault, Kyverno, Cosign.
+
+
+I’m available on Zoom / Google Meet / Teams
+niksecops@gmail.com
