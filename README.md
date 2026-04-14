@@ -24,3 +24,4 @@ Tech Stack: Go, Dagger.io, Kubernetes, AWS, Azure, GitLab CI, Splunk, Terraform,
 
 I’m available on Zoom / Google Meet / Teams
 niksecops@gmail.com
+TG @AltF4AltF4
